@@ -1,2 +1,2 @@
-# concepts
-concepts of various topics in mathematics and AI
+# Concepts
+Concepts of various topics in mathematics and AI
