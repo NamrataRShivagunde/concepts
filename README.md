@@ -9,4 +9,4 @@ Python Libraries:
 5. Scikit
 6. TensorFlow
 7. Keras
-8. PyTorch
+
