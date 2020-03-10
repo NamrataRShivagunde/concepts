@@ -6,7 +6,7 @@ Python Libraries:
 2. Pandas
 3. MatplotLib
 4. Seaborn
-5. Scikit
-6. TensorFlow
-7. Keras
+5. Scikit(in progress)
+6. TensorFlow(in progress)
+7. Keras(in progress)
 
