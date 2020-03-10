@@ -8,15 +8,15 @@ Get a hands-on with these libraries in the given sequence. To do so, open the gi
 
 Cheat sheets reference :https://www.datacamp.com/community/data-science-cheatsheets
 
-1. Numpy
+1. Numpy  
 refer: nump.ipnyb, numpy_cheatsheet
-2. Pandas
+2. Pandas  
 refer: pandas.ipnyb, pandas_cheatsheet
-3. MatplotLib 
+3. MatplotLib   
 refer: Matplotlib.ipnyb, matplotlib_cheatsheet
-4. Seaborn 
+4. Seaborn   
 refer: Seaborn.ipnyb, seaborn_cheatsheet
-5. Scikit
+5. Scikit  
 refer: Scikit.ipnyb, scikit_learn_cheatsheet (in progress)
-6. TensorFlow and Keras
+6. TensorFlow and Keras  
 (in progress)
