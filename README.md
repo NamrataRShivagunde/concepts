@@ -5,6 +5,9 @@ TOOLSETS:
 
 Python Libraries:
 Get a hands-on with these libraries in the given sequence. To do so, open the given library jupyter notebook and cheatsheet pdf e.g. if you want to get hands-on numpy library, open numpy.ipnyb and numpy_cheatsheet.pdf  . numpy.ipnyb is the hands-on version of the numpy_cheatsheet.
+
+Cheat sheet reference : https://www.datacamp.com
+
 1. Numpy 
 (reference: numpy_cheatsheet)
 2. Pandas
