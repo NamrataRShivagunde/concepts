@@ -20,4 +20,3 @@ refer: Seaborn.ipnyb, seaborn_cheatsheet
 refer: Scikit.ipnyb, scikit_learn_cheatsheet (in progress)
 6. TensorFlow and Keras
 (in progress)
-
