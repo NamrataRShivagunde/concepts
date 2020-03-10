@@ -4,7 +4,7 @@ Concepts of various topics in mathematics and AI
 TOOLSETS:
 
 Python Libraries:
-Get a hands-on with these liraries in the given sequence. To do so, open the given library jupyter notebook and cheatsheet pdf e.g. if you want to get hands-on numpy library, open numpy.ipnyb and numpy_cheatsheet.pdf. numpy.ipnyb is the hands-on version of the numpy_cheatsheet.
+Get a hands-on with these libraries in the given sequence. To do so, open the given library jupyter notebook and cheatsheet pdf e.g. if you want to get hands-on numpy library, open numpy.ipnyb and numpy_cheatsheet.pdf  . numpy.ipnyb is the hands-on version of the numpy_cheatsheet.
 1. Numpy 
 (reference: numpy_cheatsheet)
 2. Pandas
