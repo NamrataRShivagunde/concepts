@@ -22,9 +22,10 @@ refer: Scikit.ipnyb, scikit_learn_cheatsheet (in progress)
 6. TensorFlow and Keras  
 (in progress)
 
-Stage 2
-Rough notes on Big picture of machine learning, deep learning and statistical inference
-ML,DL,SI big picture.pdf : https://github.com/NamrataRShivagunde/concepts/blob/master/ML%2CDL%2CSI%20big%20picture.pdf
+Stage 2  
+Rough notes on Big picture of machine learning, deep learning and statistical inference  
+refer: ML,DL,SI big picture.pdf  
+https://github.com/NamrataRShivagunde/concepts/blob/master/ML%2CDL%2CSI%20big%20picture.pdf
 
 Demos:
 1. Machine learning using Scikit-Learn , refer : Demo_MachineLearning.ipynb
